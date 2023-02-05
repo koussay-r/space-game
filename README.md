@@ -1,4 +1,4 @@
-Simple space game with python pygame with the ability to move and shoot with music background
+Simple space game done using python pygame with the ability to move and shoot with music background
 
 
 
